@@ -1,6 +1,6 @@
 GreyNoise Community API ETL Connector
-Author: [YOUR NAME]
-Roll Number: [YOUR ROLL NUMBER]
+Author: Padala Praneetha
+Roll Number:3122225001089
 Course: Software Architecture - SSN CSE (Kyureeus EdTech)
 
 📖 Overview
